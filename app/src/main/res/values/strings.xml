@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Second Android Application</string>
+    <string name="hello_kotlin">Hello Kotlin!</string>
+</resources>
